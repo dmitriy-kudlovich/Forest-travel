@@ -1,5 +1,5 @@
 # "Forest Travel"
-Multiple pages site about tour service. **It designed to train myself in web-design.**
+Multiple pages site about tour service. **It is developed to train myself in web-development.**
 
 ## Project link
 [Watch demo online](http://kudlovichdv.com/porojects/forest_travel_code/index.html)
